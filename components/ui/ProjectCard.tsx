@@ -55,13 +55,13 @@ export default function ProjectCard({
 
         <div className="project-links">
           {links.code && (
-            <a href={links.code} className="project-link">
+            <a href={links.code} target="_blank" className="project-link">
               <Github size={16} />
               <span>Code</span>
             </a>
           )}
           {links.live && (
-            <a href={links.live} className="project-link">
+            <a href={links.live} target="_blank" className="project-link">
               <ExternalLink size={16} />
               <span>Live</span>
             </a>
