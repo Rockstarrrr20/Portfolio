@@ -136,7 +136,7 @@ export default function ContactForm() {
 
           {/* Submit Button */}
           <div className="col-12">
-            <button type="submit" className="btn btn-primary btn-lg submit-btn" disabled={isSubmitting}>
+            <button type="submit" className="btn btn-primary btn-lg submit-btn" >
               {isSubmitting ? (
                 <>
                   <Loader2 size={20} className="me-2 spinner" />
@@ -180,10 +180,7 @@ export default function ContactForm() {
           <div className="feature-icon">⚡</div>
           <div className="feature-text">Quick response within 24 hours</div>
         </div>
-        <div className="feature-item">
-          <div className="feature-icon">💼</div>
-          <div className="feature-text">Free consultation for all project inquiries</div>
-        </div>
+       
       </div>
     </div>
   )
