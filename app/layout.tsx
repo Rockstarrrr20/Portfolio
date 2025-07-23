@@ -14,7 +14,6 @@ export const metadata: Metadata = {
     "Computer Science student specializing in MERN stack, Java, and Cloud Computing. Building scalable web applications with modern technologies.",
   keywords: "Full Stack Developer, MERN Stack, Java, Cloud Computing, Web Development, React, Node.js",
   authors: [{ name: "Arnav Sharma" }],
-  generator: 'v0.dev'
 }
 
 export default function RootLayout({
@@ -31,6 +30,7 @@ export default function RootLayout({
           href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap"
           rel="stylesheet"
         />
+        <link rel="icon" href="/favicon.ico" />
       </head>
       <body>
         {children}
