@@ -10,5 +10,5 @@ export const NAVIGATION_ITEMS = [
 
 export const SOCIAL_LINKS = [
   { name: "GitHub", url: "https://github.com/Rockstarrrr20", icon: Github },
-  { name: "LinkedIn", url: "https://linkedin.com/in/arnav-sharma", icon: Linkedin },
+  { name: "LinkedIn", url: "https://www.linkedin.com/in/arnav--sharma20/", icon: Linkedin },
 ]

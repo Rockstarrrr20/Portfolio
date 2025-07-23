@@ -40,7 +40,7 @@ export default function Navbar({ activeSection, scrolled }: NavbarProps) {
               <Code size={20} />
             </div>
             <div className="brand-info">
-              <div className="brand-name">Arnav Sharma</div>
+              <div className="brand-name">DevArnav{`</>`}</div>
               <div className="brand-title">Full Stack Developer</div>
             </div>
           </div>

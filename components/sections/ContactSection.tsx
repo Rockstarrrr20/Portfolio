@@ -66,7 +66,7 @@ export default function ContactSection() {
                     </svg>
                     <span>GitHub</span>
                   </a>
-                  <a href="https://linkedin.com/in/arnav-sharma" className="social-link-contact linkedin">
+                  <a href="https://www.linkedin.com/in/arnav--sharma20/" className="social-link-contact linkedin">
                     <Linkedin size={20} />
                     <span>LinkedIn</span>
                   </a>

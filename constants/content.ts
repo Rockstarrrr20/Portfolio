@@ -168,6 +168,6 @@ export const CONTACT_METHODS = [
     icon: Linkedin,
     label: "LinkedIn",
     value: "Connect",
-    href: "https://linkedin.com/in/arnav-sharma",
+    href: "https://www.linkedin.com/in/arnav--sharma20/",
   },
 ]
